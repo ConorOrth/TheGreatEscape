@@ -1,4 +1,4 @@
-# TheGreatEscape
+# The Great Escape
 
 **Player Goal:** Escape from prison.
 
@@ -11,3 +11,6 @@ Featuring:
 - Player animation with functional state machine.
 - Controller support.
 - Fun.
+
+
+Download Demo.zip to play!
